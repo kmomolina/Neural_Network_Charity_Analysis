@@ -60,3 +60,4 @@ Testing the accuracy of this Neural Network gives us really good results:
 ## Summary
 Because we were able to attain such an accurate score on our first iteration, model optimization was not recommended for this Neural Network. I was able to achieve 100% accuracy with a Loss total of less than .02%. I was able to achieve the recommended accuracy of 75% without the need to create more neurons and adding hidden layers. Adding such variables would create overfitting of the model. A RandomForest model would also appear to accurately predict the same results. This model would take less effort and may be less intensive compared to the deep learning neural network model that we achieved here. There may also be too many columns from the original CSV, that we may remove as well.
 
+Epoch checkpoints were created and added to the checkpoints1 folder.
